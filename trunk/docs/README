@@ -1,0 +1,4 @@
+The purpose of this extension is to fix the target="_blank" XHTML strict problem
+in eZ, and any future problems that may occur breaking the XHTML strict standard.
+
+Tested on eZ Publish 4.0, 3.8.4

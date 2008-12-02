@@ -1,0 +1,6 @@
+<?
+/*
+[ExtensionSettings]
+DesignExtensions[]=nmstrictfixes
+*/
+?>

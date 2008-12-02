@@ -1,0 +1,6 @@
+1. Upload and activate extension.
+
+2. If the pagelayout does not include the page_head.tpl file, copy and paste the
+following in the head of your pagelayout:
+
+{include uri="design:strict_head.tpl"}

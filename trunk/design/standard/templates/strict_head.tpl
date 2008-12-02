@@ -1,0 +1,1 @@
+<script type="text/javascript" src={"javascripts/externallinks.js"|ezdesign}></script>
